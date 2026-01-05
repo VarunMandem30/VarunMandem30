@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **SQL, Python, data visualization, and financial APIs** to automate illustrations, reporting, and portfolio tracking.
 
-- 👨‍💻 Some of my projects are here: **[(https://github.com/VarunMandem30)]**
+- 👨‍💻 Some of my projects are here: **https://github.com/VarunMandem30**
 
 - 💬 Ask me about **financial data analysis, insurance illustrations (UL, IUL, VUL, WL, Annuities, LTC), Excel modeling, and process automation.**
 
